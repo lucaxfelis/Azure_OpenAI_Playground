@@ -1,7 +1,7 @@
 # Azure_OpenAI_Playground
 Repositório dedicado ao estudo do serviço Azure OpenAI, sendo uma coletânea de anotações, códigos e textos retirados de diversos materiais.
 
-## Anotações
+## Teoria
 
 - [O que é o serviço Azure OpenAI?](./what_is_azure_openai.md)
 - [Introdução ao Serviço OpenAI](./azure_openai_introduction.md)
