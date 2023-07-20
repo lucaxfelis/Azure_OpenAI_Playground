@@ -45,3 +45,6 @@ O serviço provê aos usuários diferentes modelos. Cada modelo provê uma difer
 
 Os modelos GPT-4 são os modelos disponíveis mais poderosos. Os modelos DALL-E geram imagens a partir de prompts de texto enviados pelos usuários.
 
+### Referências
+
+- [What is OpenAI Service?](https://learn.microsoft.com/en-us/azure/ai-services/openai/overview)
