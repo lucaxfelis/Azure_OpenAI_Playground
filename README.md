@@ -6,6 +6,10 @@ Repositório dedicado ao estudo do serviço Azure OpenAI, sendo uma coletânea d
 - [O que é o serviço Azure OpenAI?](./what_is_azure_openai.md)
 - [Introdução ao Serviço OpenAI](./azure_openai_introduction.md)
 
+## Prática
+
+- [Configuração do Ambiente](./environment_setup.ipynb)
+
 ## Referências
 
 - [What is OpenAI Service?](https://learn.microsoft.com/en-us/azure/ai-services/openai/overview)

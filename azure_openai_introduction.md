@@ -73,3 +73,34 @@ Esses modelos incluem:
 - DALL-E que gera imagens baseadas em descrições em linguagem natural.
 
 Os modelos Azure OpenAI podem ser treinados e customizados com refinamento.
+
+# Capacidade de linguagem natural do OpenAI
+
+Os modelos do Azure OpenAI são capazesde receber linguagem natural e gerar respostas. Eles são treinados sob palavras ou conjuntos de caracteres chamados de tokens.
+
+## Entendendo os modelos GPT para geração de linguagem natural
+
+Os modelos Generative Pre-trained Transformer (GPT) são excelentes em entender e criar linguagem natural.
+
+### Como o uso do GPT se parece?
+
+Um aspecto chave da IA generativa do OpenAI é que ela recebe uma entrada de texto, ou prompt, para retornar linguagem natural, uma imagem ou um código de programação. O GPT tenta inferir, ou advinhar, o contexto da pergunta do usuário baseado no prompt.
+
+Os modelos GPT são bons em exercer algumas tarefas de linguagem, como:
+
+| Tarefa | Prompt |
+| ------ | ------ |
+| Resumir texto | "Resuma esse texto em um parágrafo breve" |
+| Classificar texto | "Qual o gênero desse livro?" |
+| Gerar nomes ou frases | "Escreva uma tagline para minha empresa de flores" |
+| Traduzir | "Traduza 'Como vai você?' para francês" |
+| Responder questões | "O que o Azure OpenAI faz" |
+| Sugerir conteúdo | "Me diga as melhores cinco músicas de casamento" |
+
+# Entendendo as capacidades de geração de código do OpenAI
+
+Os modelos de geração de código são capazes de receber linguagem natural ou trechos de código e traduzí-los em código. Os modelos GPT da OpenAI são proeficientes em algumas linguagens, como C#, Javascript, Perl, PHP e, principalmente, em Python.
+
+## Codex
+
+Modelos Codex são baseados no GPT-3 e são otimizados para entender e escrever código. Esses modelos têm sido treinados com linguagem natural e sob bilhões de linhas de código de repositórios públicos. O Codex é capaz de gerar código a partir de linguagem natural como comentários e pode sugerir formas de completar funções.
