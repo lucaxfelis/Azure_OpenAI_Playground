@@ -16,6 +16,7 @@ Repositório dedicado ao estudo do serviço Azure OpenAI, sendo uma coletânea d
 - [What is OpenAI Service?](https://learn.microsoft.com/en-us/azure/ai-services/openai/overview)
 - [Introduction to Azure OpenAI Service](https://learn.microsoft.com/en-us/training/modules/explore-azure-openai/?WT.mc_id=cloudskillschallenge_bb49ce83-3aac-4405-8fb1-3eb2335f19f0)
 - [Azure OpenAI Studio](https://oai.azure.com/portal)
+- [Azure OpenAI Service REST API reference](https://learn.microsoft.com/en-us/azure/ai-services/openai/reference)
 
 ## Observações e Atualidades
 
