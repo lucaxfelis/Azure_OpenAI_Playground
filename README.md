@@ -5,6 +5,7 @@ Repositório dedicado ao estudo do serviço Azure OpenAI, sendo uma coletânea d
 
 - [O que é o serviço Azure OpenAI?](./what_is_azure_openai.md)
 - [Introdução ao Serviço OpenAI](./azure_openai_introduction.md)
+- [Introdução à Engenharia de Prompt](./prompt_engineering_intro.ipynb)
 
 ## Prática
 
